@@ -12,9 +12,11 @@ I'm a senior-year Mathematics and Computer Science student passionate about open
 
 Here are some highlights of my work:
 
-- **MuseScore**: Contributed to this open-source music notation software by implementing a feature that allows exporting PDFs with transparent backgrounds.  :contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}
+- **MuseScore**: Contributed to this open-source music notation software by implementing a feature that allows exporting PDFs with transparent backgrounds.  
 
-- **Personal Website**::contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
+- **Front-end Internship**: I interned at a [startup](https://superstars.co/) working as a front-end guy, using Angular and typescript.
+
+- **Youtube Clone**: I made a youtube clone to familiarize myself with typescript, firebase, aws. 
 
 ## Get in Touch
 
