@@ -22,7 +22,7 @@ Here are some highlights of my work:
 
 I'm always eager to connect with fellow developers, enthusiasts, and collaborators. Feel free to reach out or explore my work:
 
-- **GitHub**: [https://github.com/LeoTaoeee](https://github.com/LeoTaoeee)
+- **GitHub**: [https://github.com/LeoTaoeee](https://github.com/LeoTaoeee) (you are here lol)
 - **Website**: [leotao.netlify.app](https://leotao.netlify.app/)
 
 Let's build something amazing together! I generated this using ChatGPT btw. 
