@@ -6,7 +6,7 @@ I'm a senior-year Mathematics and Computer Science student passionate about open
 
 - 🎓 **Education**: Pursuing a degree in Mathematics and Computer Science.
 - 🌱 **Currently Learning**: Prompt Engineering, Algebraic Topology, and Acturial exams (P,FM)
-- 💻 **Interests**: Open-source contributions, watching [absolute cinema] (https://letterboxd.com/Dleo0404/), and [reading a lot](https://www.goodreads.com/user/show/178885863-leo-tao).
+- 💻 **Interests**: Open-source contributions, watching some [absolute cinema](https://letterboxd.com/Dleo0404/) , and [reading a lot](https://www.goodreads.com/user/show/178885863-leo-tao).
 
 ## Projects and Contributions
 
