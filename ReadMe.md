@@ -14,7 +14,7 @@ Here are some highlights of my work:
 
 - **MuseScore**: Contributed to this open-source music notation software by implementing a feature that allows exporting PDFs with transparent backgrounds.  :contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}
 
-- **Personal Website**: :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
+- **Personal Website**::contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
 
 ## Get in Touch
 
